@@ -1,4 +1,4 @@
 User-Agent: *
-Disallow: /google38fd76ecbd83d766.html
+Disallow:
 
 Sitemap: http://biktoz.altervista.org/sitemap.xml
