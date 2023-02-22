@@ -1,0 +1,34 @@
+
+
+.article{
+    border-color: rgb(150, 150, 150);
+    border-width: 1px;
+    border-style: dashed;
+    width: fit-content;
+    
+}
+
+.text-article{
+    padding: 10px;
+}
+
+.article-date{
+    font-size: 12px;
+    margin-left: 25px;
+}
+
+
+.center{
+    display: flex; 
+    justify-content: center;
+    
+}
+
+
+a{
+    color: rgb(150, 150, 150);
+}
+
+a:visited{
+    color: rgb(150, 150, 150);
+}
